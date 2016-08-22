@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== VbSafe ===
 Contributors: garbott
 Tags: backup, revision, vault
 Requires at least: 3.0.1
