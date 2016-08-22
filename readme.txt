@@ -1,5 +1,6 @@
 === VbSafe ===
 Contributors: garbott
+Donate link: http://www.vbsafe.co.uk
 Tags: backup, revision, vault
 Requires at least: 3.0.1
 Tested up to: 3.4
